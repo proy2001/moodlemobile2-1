@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "org.hellolifeline.learning",
+    "appname": "Sucide Prevention",
+    "desktopappname": "Sucide Prevention Desktop",
     "versioncode": 3720,
-    "versionname": "3.7.2",
+    "versionname": "3.7.2-dev",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -56,25 +56,13 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://learning.hellolifeline.org",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
